@@ -1,0 +1,1 @@
+这是一个spring与rabbitmq的整合学习案例。
